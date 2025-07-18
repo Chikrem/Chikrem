@@ -1,6 +1,10 @@
 
 # Meu Repositório
 
+<p align="center">
+  <img src="[https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif](https://giffiles.alphacoders.com/209/209343.gif)" height="350">
+</p>
+
 ## 👋 Olá! Me chamo Carlos.
 Sou graduado em Ciência da Computação pela Universidade Estadual do Ceará (UECE), com ênfase em redes, segurança e desenvolvimento de software. Durante a graduação, atuei por 4 anos como membro do Laboratório de Redes de Computadores e Segurança (LARCES/UECE), onde adquiri experiência em programação C/C++ para sistemas embarcados, redes móveis, além de utilizar Python aplicado à Ciência de Dados e Inteligência Artificial.
 Meu Trabalho de Conclusão de Curso envolveu a aplicação de modelos de Machine Learning sobre dados de redes móveis 5G. Nesse período, também colaborei em projetos nas áreas de segurança, experimentação, desenvolvimento web, prototipagem e coleta de dados voltados à Internet das Coisas (IoT), resultando na publicação de um artigo no LADC 2023.
