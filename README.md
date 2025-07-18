@@ -2,7 +2,7 @@
 # Meu Repositório
 
 <p align="center">
-  <img src="[https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif](https://giffiles.alphacoders.com/209/209343.gif)" height="350">
+  <img src="https://giffiles.alphacoders.com/209/209343.gif" width="100%">
 </p>
 
 ## 👋 Olá! Me chamo Carlos.
