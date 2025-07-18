@@ -90,6 +90,11 @@ Durante minha jornada, tive contato com diversas tecnologias em projetos pessoai
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" title = "ARDUINO"/></code>
 <code><img width="40px" src="espressif.png" title = "ESPRESSIF"/></code>
 
+## Contatos:
+<div>
+<a href = "mailto:contato@carlos.aquino@aluno.uece.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/carlos-augusto-oliveira-de-aquino-39b789226/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 ##
 <p align="center">
