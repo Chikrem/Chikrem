@@ -44,6 +44,8 @@ Durante minha jornada, tive contato com diversas tecnologias em projetos pessoai
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title = "POSTMAN"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" title = "LATEX"/></code>
 <code><img width="40px" src="orange.png" title = "ORANGE_DATA_MINING"/></code>
+</br>
+
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" title = "FIREBASE"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" title = "DBEAVER"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" title = "ESLINT"/></code>
@@ -60,6 +62,8 @@ Durante minha jornada, tive contato com diversas tecnologias em projetos pessoai
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title = "SCIKITLEARN"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" title = "TENSOR_FLOW"/></code>
 <code><img width="40px" src="tuya.png" title = "TUYA_API"/></code>
+</br>
+
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title = "ANGULAR"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" title = "RXJS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" title = "ANGULAR_MATERIAL"/></code>
