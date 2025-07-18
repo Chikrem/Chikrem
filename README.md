@@ -88,3 +88,11 @@ Durante minha jornada, tive contato com diversas tecnologias em projetos pessoai
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" title = "ARDUINO"/></code>
 <code><img width="40px" src="espressif.png" title = "ESPRESSIF"/></code>
 
+
+##
+<p align="center">
+<a href="https://github.com/jeniblodev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chikrem&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chikrem&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
