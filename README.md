@@ -1,19 +1,19 @@
 
 # Meu Repositório
-</br>
+
 ## 👋 Olá! Me chamo Carlos.
 Sou graduado em Ciência da Computação pela Universidade Estadual do Ceará (UECE), com ênfase em redes, segurança e desenvolvimento de software. Durante a graduação, atuei por 4 anos como membro do Laboratório de Redes de Computadores e Segurança (LARCES/UECE), onde adquiri experiência em programação C/C++ para sistemas embarcados, redes móveis, além de utilizar Python aplicado à Ciência de Dados e Inteligência Artificial.
 Meu Trabalho de Conclusão de Curso envolveu a aplicação de modelos de Machine Learning sobre dados de redes móveis 5G. Nesse período, também colaborei em projetos nas áreas de segurança, experimentação, desenvolvimento web, prototipagem e coleta de dados voltados à Internet das Coisas (IoT), resultando na publicação de um artigo no LADC 2023.
 Fui monitor da disciplina de Redes de Computadores da UECE por 1 ano e participei da Huawei ICT Competition | Innovation Practice 2023, representando o Instituto Iracema de Pesquisa e Inovação, onde alcancei o 4º lugar na América Latina. Também atuei como instrutor de minicursos e treinamentos sobre IoT no Huawei ICT Roadshow 2023, em laboratórios da UECE e em parceria com o IDESCO (Instituto de Desenvolvimento, Estratégia e Conhecimento).
 Participei ainda de cursos oferecidos pela Dell Computadores por meio da plataforma Dell Lead, onde tive meu primeiro contato com desenvolvimento mobile usando Flutter e Dart.
-</br>
+
 ## 💡 Fora da área acadêmica e profissional...
 Sou apaixonado por aquarismo e games, e também curto animes, filmes e séries. Essa paixão por peixes e aquários me inspirou a criar o site [Aquarismo Maracanaú](https://aquarismomaracanau.com.br/), um portal/blog voltado para a comunidade local de aquaristas. Ele foi originalmente desenvolvido em Angular, mas atualmente está em WordPress. Sempre que posso, atualizo o conteúdo e participo de ações sociais e eventos com a comunidade 🐠.
-</br>
+
 ## 🚀 Hoje...
 Atualmente, trabalho como bolsista Desenvolvedor de Software Front-End na Secretaria de Saúde do Estado do Ceará (SESA), onde sigo me desenvolvendo e aprimorando minhas habilidades na área de tecnologia.
 Durante minha jornada, tive contato com diversas tecnologias em projetos pessoais e profissionais — às vezes estudando, às vezes me virando, mas sempre aprendendo e me divertindo no processo 😅. Abaixo, você encontra algumas dessas tecnologias que marcaram meu caminho.
-</br>
+
 ### 👨‍💻 Linguagens de Programação:
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
