@@ -8,7 +8,7 @@ Fui monitor da disciplina de Redes de Computadores da UECE por 1 ano e participe
 Participei ainda de cursos oferecidos pela Dell Computadores por meio da plataforma Dell Lead, onde tive meu primeiro contato com desenvolvimento mobile usando Flutter e Dart.
 
 ## 💡 Fora da área acadêmica e profissional...
-Sou apaixonado por aquarismo e games, e também curto animes, filmes e séries. Essa paixão por peixes e aquários me inspirou a criar o site [Aquarismo Maracanaú](https://aquarismomaracanau.com.br/), um portal/blog voltado para a comunidade local de aquaristas. Ele foi originalmente desenvolvido em Angular, mas atualmente está em WordPress. Sempre que posso, atualizo o conteúdo e participo de ações sociais e eventos com a comunidade 🐠.
+Sou apaixonado por aquarismo e games (vulgo Chikem no mundo gaming), e também curto animes, filmes e séries. Essa paixão por peixes e aquários me inspirou a criar o site [Aquarismo Maracanaú](https://aquarismomaracanau.com.br/), um portal/blog voltado para a comunidade local de aquaristas. Ele foi originalmente desenvolvido em Angular, mas atualmente está em WordPress. Sempre que posso, atualizo o conteúdo e participo de ações sociais e eventos com a comunidade 🐠.
 
 ## 🚀 Hoje...
 Atualmente, trabalho como bolsista Desenvolvedor de Software Front-End na Secretaria de Saúde do Estado do Ceará (SESA), onde sigo me desenvolvendo e aprimorando minhas habilidades na área de tecnologia.
